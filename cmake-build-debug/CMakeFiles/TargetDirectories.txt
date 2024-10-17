@@ -1,0 +1,3 @@
+C:/Users/jorni/CLionProjects/cfcmcpeg/cmake-build-debug/CMakeFiles/cfcmcpeg.dir
+C:/Users/jorni/CLionProjects/cfcmcpeg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jorni/CLionProjects/cfcmcpeg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
